@@ -1,0 +1,81 @@
+# =========================
+# Virtual Environments
+# =========================
+.venv/
+venv/
+env/
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# =========================
+# Jupyter Notebooks
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Machine Learning & Data
+# =========================
+# Datasets (Ignore raw, processed, and external data)
+data/
+datasets/
+*.csv
+*.tsv
+*.dat
+*.parquet
+*.tfrecord
+
+# Model Checkpoints and Weights
+models/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.hdf5
+*.keras
+*.onnx
+*.pb
+*.tflite
+*.weights
+
+# =========================
+# Logging & Profiling
+# =========================
+logs/
+runs/
+tensorboard/
+wandb/
+*.log
+mlruns/
+
+# =========================
+# OS & IDEs
+# =========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
