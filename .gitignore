@@ -14,6 +14,7 @@ __pycache__/
 *.so
 Scripts/
 share/
+pyvenv.cfg
 
 # Distribution / packaging
 build/
