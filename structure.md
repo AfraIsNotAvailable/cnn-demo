@@ -85,7 +85,7 @@ To tackle this without getting overwhelmed, follow this phased approach:
 
 ---
 
-## Additional Ideas to Elevate Your Project
+## Additional Ideas
 
 If you want to push this project from "standard tutorial" to "advanced portfolio piece," consider adding one or two of these concepts:
 
